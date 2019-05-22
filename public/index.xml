@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoffrey&#39;s travel blog</title>
+    <link>/</link>
+    <description>Recent content on Geoffrey&#39;s travel blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leaving Auckland</title>
+      <link>/2019/05/22/leaving-auckland/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/22/leaving-auckland/</guid>
+      <description>Good-bye Auckland! Barcelona here I come!</description>
+    </item>
+    
+  </channel>
+</rss>
