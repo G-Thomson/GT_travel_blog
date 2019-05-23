@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://gt-travel-blog.netlify.com"
 languageCode = "en-us"
 title = "Geoffrey's travel blog"
 theme = "hugo-lithium"
